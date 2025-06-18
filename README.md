@@ -4,7 +4,8 @@ An Android demonstration project showcasing **dependency version conflicts** and
 
 ## 📱 Screenshot
 
-![Dependency Locking Demo](https://github.com/franzandel/DependencyLockingSample/blob/master/DependencyLockingDemo.png)
+<img src="https://github.com/franzandel/DependencyLockingSample/blob/main/DependencyLockingDemo.png" width="350"/>
+
 *The app demonstrates version conflicts between declared and resolved dependencies*
 
 ## 🔄 Retrofit + OkHttp Version Conflict
