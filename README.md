@@ -2,6 +2,8 @@
 
 An Android demonstration project showcasing **dependency version conflicts** and how **Gradle's dependency locking** can help prevent unexpected version changes in production builds.
 
+Further explanation [here](https://medium.com/@franzandel/dependency-locking-real-world-use-case-in-android-3c9fe8b1b0cc).
+
 ## 📱 Screenshot
 
 <img src="https://github.com/franzandel/DependencyLockingSample/blob/main/DependencyLockingDemo.png" width="350"/>
